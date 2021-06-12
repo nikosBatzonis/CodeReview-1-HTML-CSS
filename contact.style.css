@@ -122,3 +122,20 @@ input {
     font-size: 20px;
     margin-bottom: 40px;
 }
+
+.contFooter {
+    background-color: rgb(202, 187, 183);
+    position: relative;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.logoFooter {
+    width: 15%;
+}
+
+footer,
+h5 {
+    text-align: center;
+    height: 40px;
+}
